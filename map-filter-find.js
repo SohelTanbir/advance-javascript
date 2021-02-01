@@ -16,7 +16,7 @@ console.log(result)
 let result = numbers.filter(x=> x >6);
 console.log(result)
 
-use of find()
+// use of find()
 
 var result = numbers.find(x => x > 5);
 console.log(result);
